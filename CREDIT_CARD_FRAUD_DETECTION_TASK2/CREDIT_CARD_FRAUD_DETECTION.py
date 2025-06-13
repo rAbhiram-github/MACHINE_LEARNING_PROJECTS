@@ -2,7 +2,7 @@
 # AUTHOR: ABHIRAM R
 # TASK NAME: CREDIT CARD FRAUD DETECTION
 # TASK CATEGORY: MACHINE LEARNING
-# GITHUB REPOSITORY: https://github.com/rAbhiram-github/CODSOFT/tree/main/CREDIT_CARD_FRAUD_DETECTION_TASK2
+# GITHUB REPOSITORY: https://github.com/rAbhiram-github/Projects/tree/main/CREDIT_CARD_FRAUD_DETECTION_TASK2
 
 # Importing libraries
 import pandas as pd 
