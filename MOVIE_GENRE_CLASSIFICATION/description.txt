@@ -9,6 +9,3 @@ ID ::: TITLE ::: DESCRIPTION
 ID ::: TITLE ::: DESCRIPTION
 ID ::: TITLE ::: DESCRIPTION
 ID ::: TITLE ::: DESCRIPTION
-
-Source:
-ftp://ftp.fu-berlin.de/pub/misc/movies/database/
